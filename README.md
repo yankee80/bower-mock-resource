@@ -1,0 +1,1 @@
+# bower-mock-resource
