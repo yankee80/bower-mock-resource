@@ -1,0 +1,8 @@
+{
+  "name": "mock-resource",
+  "version": "0.0.1",
+  "main": "./mockResource.js",
+  "ignore": [],
+  "dependencies": {
+  }
+}
