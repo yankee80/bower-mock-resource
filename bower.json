@@ -1,6 +1,7 @@
 {
+  "author": "Michał Jankowski",
   "name": "mock-resource",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./mockResource.js",
   "ignore": [],
   "dependencies": {
